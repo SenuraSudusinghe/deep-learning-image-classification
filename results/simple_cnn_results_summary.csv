@@ -1,0 +1,2 @@
+Model,Test Images,Number of Classes,Test Loss,Test Accuracy,Test Accuracy (%),Best Validation Accuracy (%),Best Validation Loss,Best Epoch
+Simple CNN,3000,6,0.5114346742630005,0.8343333601951599,83.43333601951599,82.95,0.5031,13
